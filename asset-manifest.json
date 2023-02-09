@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/QuantumChess/static/css/main.5b4b95c0.css",
+    "main.css": "/QuantumChess/static/css/main.a8470c38.css",
     "main.js": "/QuantumChess/static/js/main.6349a569.js",
     "index.html": "/QuantumChess/index.html",
-    "main.5b4b95c0.css.map": "/QuantumChess/static/css/main.5b4b95c0.css.map",
+    "main.a8470c38.css.map": "/QuantumChess/static/css/main.a8470c38.css.map",
     "main.6349a569.js.map": "/QuantumChess/static/js/main.6349a569.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b4b95c0.css",
+    "static/css/main.a8470c38.css",
     "static/js/main.6349a569.js"
   ]
 }
