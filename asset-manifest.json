@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/QuarantineChess/static/css/main.74869cc6.css",
-    "main.js": "/QuarantineChess/static/js/main.6349a569.js",
-    "index.html": "/QuarantineChess/index.html",
-    "main.74869cc6.css.map": "/QuarantineChess/static/css/main.74869cc6.css.map",
-    "main.6349a569.js.map": "/QuarantineChess/static/js/main.6349a569.js.map"
+    "main.css": "/QuantumChess/static/css/main.74869cc6.css",
+    "main.js": "/QuantumChess/static/js/main.6349a569.js",
+    "index.html": "/QuantumChess/index.html",
+    "main.74869cc6.css.map": "/QuantumChess/static/css/main.74869cc6.css.map",
+    "main.6349a569.js.map": "/QuantumChess/static/js/main.6349a569.js.map"
   },
   "entrypoints": [
     "static/css/main.74869cc6.css",
