@@ -19,7 +19,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://bharath-rajiv.github.io/react-chess",
+  "homepage": "https://bharath-rajiv.github.io/QuarantineChess/",
   "browserslist": {
     "production": [
       ">0.2%",
